@@ -1,3 +1,6 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+# Deneme  
+
+## Alt Bilgi
+dgggggggggfgdgfsdx jsafdsggdf
+
 [lorem ipsum](http://google.com)
